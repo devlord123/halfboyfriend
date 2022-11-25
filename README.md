@@ -4,7 +4,7 @@
 <h3 align="center">I'm a software developer from Nigeria</h3>
 
 
-<p align="right" width="400"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="halfboyfriend" /> </p>
+<p align="center" width="400"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="halfboyfriend" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halfboyfriend&label=Profile%20views&color=0e75b6&style=flat" alt="halfboyfriend" /> </p>
 
